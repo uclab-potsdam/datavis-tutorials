@@ -29,4 +29,4 @@ The tutorials were created for the Information Visualization course at Fachhochs
 
 The notebooks are released under the [Creative Commons Attribution license (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-If you encounter any errors or have any suggestions for improvement, feel free to [send an email](mailto:marian.doerk@fh-potsdam.de).
+If you encounter any errors or have any suggestions for improvement, feel free to ~[send an email](mailto:marian.doerk@fh-potsdam.de)~ fork this repository and send a pull request.
