@@ -14,14 +14,14 @@ The tutorials require basic familiarity with statistics and programming. They co
 
 The first three tutorials lay the groundwork, after which five common data structures are covered:
 
-1. **[Getting started](https://github.com/nrchtct/infovis-tutorials/blob/master/infovis1start.ipynb)** [Colab](https://colab.research.google.com/drive/16SVYtXut1ulFgwIqG_LptUC9_EBN7M4v)
-2. **[Data wrangling](https://github.com/nrchtct/infovis-tutorials/blob/master/infovis2data.ipynb)** [Colab](https://colab.research.google.com/drive/1u4gucw1Lndk_Wpuo3pAhojEUp5iiq19u)
-3. **[Interaction techniques](https://github.com/nrchtct/infovis-tutorials/blob/master/infovis3interaction.ipynb)** [Colab](https://colab.research.google.com/drive/1oIC_Pvkg-GcenyqXaoA9gGBkJXD95XrP)
-4. **[Temporal analysis](https://github.com/nrchtct/infovis-tutorials/blob/master/infovis4time.ipynb)** [Colab](https://colab.research.google.com/drive/11zDWTJHup4A4rEUZq2evGVpXagElfTdT)
-5. **[Text processing](https://github.com/nrchtct/infovis-tutorials/blob/master/infovis5text.ipynb)** [Colab](https://colab.research.google.com/drive/1y5j8DoczO57bUzUBbqqKd5lU2j_GlCuG)
-6. **[Many dimensions](https://github.com/nrchtct/infovis-tutorials/blob/master/infovis6multidim.ipynb)** [Colab](https://colab.research.google.com/drive/1d9BSFnyg0WWuFiCZ8rE1cmxKp0p7kdNH)
-7. **[Network analysis](https://github.com/nrchtct/infovis-tutorials/blob/master/infovis7networks.ipynb)** [Colab](https://colab.research.google.com/drive/1tjI3JLhIiUgByqgm4dRNv84DjMRKVsXg)
-8. **[Geovisualization](https://github.com/nrchtct/infovis-tutorials/blob/master/infovis8geovis.ipynb)** [Colab](https://colab.research.google.com/drive/1UxabqyXiAb7fAlopf7VzLjZFfp8IT9mR)
+1. **[Getting started](https://github.com/nrchtct/infovis-tutorials/blob/master/infovis1start.ipynb)** [Colab](https://colab.research.google.com/github/nrchtct/infovis-tutorials/blob/master/infovis1start.ipynb)
+2. **[Data wrangling](https://github.com/nrchtct/infovis-tutorials/blob/master/infovis2data.ipynb)** [Colab](https://colab.research.google.com/github/nrchtct/infovis-tutorials/blob/master/infovis2data.ipynb)
+3. **[Interaction techniques](https://github.com/nrchtct/infovis-tutorials/blob/master/infovis3interaction.ipynb)** [Colab](https://colab.research.google.com/github/nrchtct/infovis-tutorials/blob/master/infovis3interaction.ipynb)
+4. **[Temporal analysis](https://github.com/nrchtct/infovis-tutorials/blob/master/infovis4time.ipynb)** [Colab](https://colab.research.google.com/github/nrchtct/infovis-tutorials/blob/master/infovis4time.ipynb)
+5. **[Text processing](https://github.com/nrchtct/infovis-tutorials/blob/master/infovis5text.ipynb)** [Colab](https://colab.research.google.com/github/nrchtct/infovis-tutorials/blob/master/infovis5text.ipynb)
+6. **[Many dimensions](https://github.com/nrchtct/infovis-tutorials/blob/master/infovis6multidim.ipynb)** [Colab](https://colab.research.google.com/github/nrchtct/infovis-tutorials/blob/master/infovis6multidim.ipynb)
+7. **[Network analysis](https://github.com/nrchtct/infovis-tutorials/blob/master/infovis7networks.ipynb)** [Colab](https://colab.research.google.com/github/nrchtct/infovis-tutorials/blob/master/infovis7networks.ipynb)
+8. **[Geovisualization](https://github.com/nrchtct/infovis-tutorials/blob/master/infovis8geovis.ipynb)** [Colab](https://colab.research.google.com/github/nrchtct/infovis-tutorials/blob/master/infovis8geovis.ipynb)
 
 ## Credits
 
