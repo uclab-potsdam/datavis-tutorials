@@ -1,0 +1,8 @@
+pandas
+altair>=5
+vega_datasets
+requests
+requests_cache
+geopandas
+geopy
+OSMPythonTools
