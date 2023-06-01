@@ -6,6 +6,7 @@ requests_cache
 ipywidgets
 wordcloud
 nltk
+spacy
 umap-learn
 requests_cache
 networkx

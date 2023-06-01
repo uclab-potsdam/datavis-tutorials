@@ -1,3 +1,0 @@
-pandas
-altair>=5
-vega_datasets

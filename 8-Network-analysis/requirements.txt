@@ -1,5 +1,0 @@
-pandas
-altair>=5
-requests
-networkx
-nx_altair

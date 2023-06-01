@@ -1,7 +1,0 @@
-pandas
-altair>=5
-vega_datasets
-requests
-umap-learn
-requests_cache
-ipywidgets
