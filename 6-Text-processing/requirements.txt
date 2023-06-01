@@ -4,3 +4,4 @@ vega_datasets
 requests
 wordcloud
 nltk
+spacy
