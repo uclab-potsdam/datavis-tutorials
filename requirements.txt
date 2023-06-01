@@ -1,0 +1,15 @@
+pandas
+altair>=5
+vega_datasets
+requests
+requests_cache
+ipywidgets
+wordcloud
+nltk
+umap-learn
+requests_cache
+networkx
+nx_altair
+geopandas
+geopy
+OSMPythonTools
