@@ -20,7 +20,7 @@ The tutorials make frequent use of the data analysis library [Pandas](https://pa
 6. **Text processing**  Extract common words, filter them by type, and them in context
 7. **Many dimensions**  Combine datasets and create multidimensional visualizations 
 8. **Network analysis**  Load network data, examine graph metrics, and visualize their structure
-9. **Geo visualization**. Work with geospatial data and render different kinds of maps 
+9. **Geovisualization**. Work with geospatial data and render different kinds of maps 
 
 ## Credits
 
