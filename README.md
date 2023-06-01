@@ -12,15 +12,15 @@ The following tutorials require basic familiarity with statistics and programmin
 
 The tutorials make frequent use of the data analysis library [Pandas](https://pandas.pydata.org/), the visualization library [Altair](https://altair-viz.github.io), and a range of other packages that you can find in the respective `requirements.txt` files in each tutorial. If you run these notebooks locally, you might want to run `pip install -r requirements.txt` first. You can view the tutorials as webpages, open and run them on Deepnote, or download the Jupyter notebook files to edit and run them locally in your own environment. The first four tutorials lay the groundwork, after which five common data structures are covered:
 
-1. **Getting started**  Refresh your Python skills and meet Pandas and Altair
-2. **Visual encoding**  Learn how to transform data dimensions into visual variables
-3. **Data wrangling**  Load and parse different data formats and examine their contents
-4. **Interaction techniques**  Add interactivity to visualizations and support data exploration
-5. **Temporal analysis**  Analyze temporal data and present time spans, trends, and patterns
-6. **Text processing**  Extract common words, filter them by type, and them in context
-7. **Many dimensions**  Combine datasets and create multidimensional visualizations 
-8. **Network analysis**  Load network data, examine graph metrics, and visualize their structure
-9. **Geovisualization**. Work with geospatial data and render different kinds of maps 
+1. **[Getting started](1-Getting-started/datavis1start.ipynb)**  Refresh your Python skills and meet Pandas and Altair
+2. **[Visual encoding](2-Visual-encoding/datavis2encoding.ipynb)**  Learn how to transform data dimensions into visual variables
+3. **[Data wrangling](3-Data-wrangling/datavis3data.ipynb)**  Load and parse different data formats and examine their contents
+4. **[Interaction techniques](4-Interaction-techniques/datavis4interaction.ipynb)**  Add interactivity to visualizations and support data exploration
+5. **[Temporal analysis](5-Temporal-analysis/datavis5time.ipynb)**  Analyze temporal data and present time spans, trends, and patterns
+6. **[Text processing](6-Text-processing/datavis6text.ipynb)**  Extract common words, filter them by type, and them in context
+7. **[Many dimensions](7-Many-dimensions/datavis7multidim.ipynb)**  Combine datasets and create multidimensional visualizations 
+8. **[Network analysis](8-Network-analysis/datavis8networks.ipynb)**  Load network data, examine graph metrics, and visualize their structure
+9. **[Geovisualization](9-Geovisualization/datavis9geovis.ipynb)**  Work with geospatial data and render different kinds of maps 
 
 ## Credits
 
