@@ -2,7 +2,7 @@
 
 **Hands-on tutorials for basic visualization techniques and the necessary data processing**
 
-<img style="float: right; width: 50%; padding-left:5%;" src="https://infovis.fh-potsdam.de/tutorials/cover.png">
+![cover](https://infovis.fh-potsdam.de/tutorials/cover.png)
 
 Data visualization transforms datasets into visual and interactive representations. As we encounter growing datasets in various sectors we need to develop effective methods for making sense of data. Data visualization relies on computational means and our perceptual system to help reveal otherwise invisible patterns and gain new insights. Across various fields, there is great hope in the power of visualization to turn complex data into informative, engaging, and maybe even attractive forms. However, it typically takes several steps of data preparation and processing before a given dataset can be meaningfully visualized. While visualizations can indeed provide novel and useful perspectives on data, they can also obscure or misrepresent certain aspects of a phenomenon. Thus it is essential to develop a critical literacy towards data visualizations. One of the best ways to achieve this is to create them yourself!
 
